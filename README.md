@@ -4,9 +4,11 @@ I've created my first #android app which is a #music player #app . Basically it 
 I hope you guys are enjoy ....
 
 # Screenshots
-![img](https://user-images.githubusercontent.com/96272309/208820395-ec076e6a-6eca-4ec5-a08b-7201c5c10784.jpg)
-![img2](https://user-images.githubusercontent.com/96272309/208820442-6e5df2ad-05ca-4a77-a3be-6bdea426f810.jpg)
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif](https://user-images.githubusercontent.com/96272309/208820395-ec076e6a-6eca-4ec5-a08b-7201c5c10784.jpg)">
 
+<!-- ![img](https://user-images.githubusercontent.com/96272309/208820395-ec076e6a-6eca-4ec5-a08b-7201c5c10784.jpg)
+![img2](https://user-images.githubusercontent.com/96272309/208820442-6e5df2ad-05ca-4a77-a3be-6bdea426f810.jpg)
+ -->
 # Video
 https://user-images.githubusercontent.com/96272309/208820455-9c33c81c-31b2-4d7a-8159-6ab25eb2e6f7.mp4
 

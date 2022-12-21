@@ -5,7 +5,7 @@ I hope you guys are enjoy ....
 
 # Screenshots
 
-![img](https://user-images.githubusercontent.com/96272309/208820395-ec076e6a-6eca-4ec5-a08b-7201c5c10784.jpg/400*600)
+![img](https://user-images.githubusercontent.com/96272309/208820395-ec076e6a-6eca-4ec5-a08b-7201c5c10784.jpg)
 ![img2](https://user-images.githubusercontent.com/96272309/208820442-6e5df2ad-05ca-4a77-a3be-6bdea426f810.jpg)
 
 # Video

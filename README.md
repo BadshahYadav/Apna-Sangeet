@@ -6,12 +6,9 @@ I hope you guys are enjoy ....
 # Screenshots
 
 
-<img src="https://github.com/BadshahYadav/Apna-Sangeet/blob/master/img.jpg" width="400" height="600">
-<img src="https://github.com/BadshahYadav/Apna-Sangeet/blob/master/img2.jpg" width="400" height="600">
+<img align="center" src="https://github.com/BadshahYadav/Apna-Sangeet/blob/master/img.jpg" width="400" height="600">
+<img align="center" src="https://github.com/BadshahYadav/Apna-Sangeet/blob/master/img2.jpg" width="400" height="600">
 
-<!-- ![img](https://user-images.githubusercontent.com/96272309/208820395-ec076e6a-6eca-4ec5-a08b-7201c5c10784.jpg)
-![img2](https://user-images.githubusercontent.com/96272309/208820442-6e5df2ad-05ca-4a77-a3be-6bdea426f810.jpg)
- -->
 # Video
 https://user-images.githubusercontent.com/96272309/208820455-9c33c81c-31b2-4d7a-8159-6ab25eb2e6f7.mp4
 
